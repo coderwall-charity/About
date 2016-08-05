@@ -10,7 +10,7 @@ Easy! Visit [coderwall.com](https://coderwall.com/gh) and create an account. We'
 
 ## How do I leave all the Coderwall Badge organizations?
 
-We've made it really easy to opt out. Simply relogin to to Coderwall with your GitHub account, go to the [settings tab](https://coderwall.com/settings) and uncheck "Join Coderwall Badge Orgs".
+We've made it really easy to opt out. Simply relogin to Coderwall with your GitHub account, go to the [settings tab](https://coderwall.com/settings) and uncheck "Join Coderwall Badge Orgs".
 
 ![Publicize](http://f.cl.ly/items/3v0t2B1t0X0o3Z0R1x1N/GHOrgUnlink.png)
 
