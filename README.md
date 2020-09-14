@@ -1,4 +1,4 @@
-#### The Charity Achievement is awarded to registered Coderwall members that have forked and commited to someone's open source project.
+#### The Charity Achievement is awarded to registered Coderwall members that have forked and committed to someone's open source project.
 
 ## What is Coderwall
 
@@ -6,7 +6,7 @@
 
 ## How do I unlock the Charity achievement?
 
-Easy! Visit [coderwall.com](https://coderwall.com/gh) and create an account. We'll monitor your public github repo once a week and award you new achievements.
+Easy! Visit [coderwall.com](https://coderwall.com/gh) and create an account. We'll monitor your public GitHub repo once a week and award you new achievements.
 
 ## How do I leave all the Coderwall Badge organizations?
 
